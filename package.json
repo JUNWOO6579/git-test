@@ -1,0 +1,12 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "해당 레포지토리는 `git test`를 위한 레포지토리입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
